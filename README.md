@@ -5,7 +5,7 @@ A web Application that can help your to easily communicates with your friends,fi
 
 # Technologies used 
 
--HTML
+. HTML
 -CSS
 JavaScript
 React.js
