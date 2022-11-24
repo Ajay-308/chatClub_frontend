@@ -6,8 +6,8 @@ A web Application that can help your to easily communicates with your friends,fi
 # Technologies used 
 
 ~ HTML
-> CSS
-> JavaScript
-> React.js
-> Nodes.js
-> Socket.io
+~ CSS
+~ JavaScript
+~ React.js
+~ Nodes.js
+~ Socket.io
