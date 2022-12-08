@@ -1,7 +1,7 @@
 
 # CHAT APP
 
-A web Application that can help your to easily communicates with your friends,fimaly and other. Here you can make new friends also by join any server room. you just have to join any server and start communation.
+A web Application that can help you to easily communicates with your friends,fimaly and others. Here you can make new friends just by join any server room. you just have to join any server and start communations.
 
 # Technologies used 
 
